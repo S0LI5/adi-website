@@ -7,7 +7,7 @@ import mailLogo from '../assets/mail.png';
 import experienceImage from '../assets/experience.svg';
 import resumeImage from '../assets/resume.svg';
 import backgroundImage from '../assets/profile.png';
-import setupImage from '../assets/setup.png';
+import setupImage from '../assets/dummy.jpg';
 
 
 const BentoLayout = () => {
