@@ -6,7 +6,7 @@ import xLogo from '../assets/x-logo.svg';
 import mailLogo from '../assets/mail.png';
 import experienceImage from '../assets/experience.svg';
 import resumeImage from '../assets/resume.svg';
-import backgroundImage from '../assets/background_image.png';
+import backgroundImage from '../assets/profile.png';
 import setupImage from '../assets/setup.png';
 
 
