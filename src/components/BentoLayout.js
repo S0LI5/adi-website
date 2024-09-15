@@ -57,7 +57,7 @@ const BentoLayout = () => {
       </div>
 
       <div className="col-span-1 aspect-square rounded-xl border-transparent shadow-md overflow-hidden">
-        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/resume.pdf" download target="_blank" rel="noopener noreferrer">
           <img src={ resumeImage } alt="Resume" className="w-full h-full object-cover"/>
         </a>
       </div>
@@ -72,7 +72,7 @@ const BentoLayout = () => {
       </div>
 
       <div className="col-span-1 aspect-square rounded-xl border-transparent shadow-md overflow-hidden">
-        <a href="https://github.com/kingsmen732" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/S0LI5" target="_blank" rel="noopener noreferrer">
           <img src={ githubLogo } alt="GitHub Logo" className="w-full h-full object-cover"/>
         </a>
       </div>
