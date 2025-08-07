@@ -13,7 +13,7 @@ const ProfileSidebar = () => {
           'Lifelong Learner', 2000,
           'Video Game Lover', 2000,
           'Technology Enthusiast', 2000,
-          'Mechanical Keyboard Builder', 2000
+          'Petrol Head', 2000
         ] }
         loop={ Infinity }
         wrapper="p"
